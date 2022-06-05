@@ -1,0 +1,19 @@
+diff --git a/package.json b/package.json
+index 5a90da3..bdd188f 100644
+--- a/package.json
++++ b/package.json
+@@ -3,10 +3,10 @@
+   "version": "0.0.1",
+   "private": true,
+   "scripts": {
+-    "dev": "astro dev",
+-    "start": "astro dev",
+-    "build": "astro build",
+-    "preview": "astro preview"
++    "dev": "firemyna dev",
++    "start": "firemyna dev",
++    "build": "firemyna build",
++    "preview": "firemyna preview"
+   },
+   "devDependencies": {
+     "astro": "^1.0.0-beta.17",
